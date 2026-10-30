@@ -1,0 +1,4 @@
+looker.ini
+*.csv
+.DS_Store
+__pycache__/

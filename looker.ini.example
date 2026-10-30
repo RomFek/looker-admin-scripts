@@ -1,0 +1,6 @@
+[Looker]
+# Copy to looker.ini (git-ignored) and fill in your own API3 credentials.
+base_url=https://your-company.cloud.looker.com
+client_id=YOUR_CLIENT_ID
+client_secret=YOUR_CLIENT_SECRET
+verify_ssl=True
